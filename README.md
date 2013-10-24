@@ -41,6 +41,8 @@ impress.js: Beyond the Presentation: http://impressjs.challengepost.com
 
 django dash: http://djangodash.com/
 
+Rails Rumble: http://railsrumble.com/
+
 GitHub Game Off: https://github.com/blog/1303-github-game-off
 
  Know an example challenge that’s not included above? Submit a [pull](https://github.com/challengepost/opensource-challenges/pulls) request and we’ll add it.
