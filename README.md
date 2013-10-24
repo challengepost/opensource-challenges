@@ -47,5 +47,5 @@ GitHub Game Off: https://github.com/blog/1303-github-game-off
 
 ## How can I contribute to this repo?
 
- Contribute by sharing challenge examples (pull request) or ideas for open source challenges you’d like to see happen (issue). If you have an idea for a cool open source challenge create an issue and we’ll try and make it happen! If you’re ready to run a challenge complete this brief form. Email us at post@challengepost.com if you have questions.
+ Contribute by sharing challenge examples (pull request) or ideas for open source challenges you’d like to see happen (issue). If you have an idea for a cool open source challenge create an issue and we’ll try and make it happen! If you’re ready to run a challenge complete this [brief form](https://docs.google.com/a/challengepost.com/forms/d/1uM_3ALxahpFzgasCOVlXQdMHRNdKYeDD-vpLDFnU7-s/viewform). Email us at post@challengepost.com if you have questions.
 
