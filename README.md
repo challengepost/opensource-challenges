@@ -27,7 +27,7 @@ Running a challenge is pretty simple and doesn’t take a lot of time. Here’s 
 
 You can  publish your challenge on the ChallengePost platform. It’s free to use for open source challenges. ChallengePost provides a separate challenge website where you can review and highlight submissions and communicate with people that have registered. ChallengePost also promotes challenges on our platform to our global network of developers and designers. This can help you build community and expand engagement with your project.
 
- To get started, contribute your challenge idea to this repo by adding a new issue or fill out this brief form and we’ll set up a draft challenge. If you have questions you can email us at post@challengepost.com.
+ To get started, contribute your challenge idea to this repo by adding a new issue or fill out this [brief form](https://docs.google.com/a/challengepost.com/forms/d/1uM_3ALxahpFzgasCOVlXQdMHRNdKYeDD-vpLDFnU7-s/viewform) and we’ll set up a draft challenge. If you have questions you can email us at post@challengepost.com.
 
 ## What are some example open source challenges?
 
