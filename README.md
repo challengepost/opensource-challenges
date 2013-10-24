@@ -43,7 +43,7 @@ django dash: http://djangodash.com/
 
 GitHub Game Off: https://github.com/blog/1303-github-game-off
 
- Know an example challenge that’s not included above? Submit a pull request and we’ll add it.
+ Know an example challenge that’s not included above? Submit a [pull](https://github.com/challengepost/opensource-challenges/pulls) request and we’ll add it.
 
 ## How can I contribute to this repo?
 
